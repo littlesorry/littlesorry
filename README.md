@@ -7,9 +7,8 @@ My name is Baofeng.
 I am a Java Developer/Architect with about 10 years of experience. 
 I am experienced in Java, Microservice, SOA, High Concurrency Application Design, Data-Intensive Application Design, MySql, Redis, RocketMQ etc.
 
-
-#### 📫 How to reach me
-  - chaumet.g@gmail.com
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: chaumet.g@gmail.com
 
 
 <!--
