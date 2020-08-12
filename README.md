@@ -5,7 +5,7 @@
 My name is Baofeng. 
 
 I am a Java Developer/Architect with more than 10 years of experience. 
-I am experienced in Java, Microservice, SOA, High Concurrency Application Design, Data-Intensive Application Design, MySql, RocketMQ etc.
+I am experienced in Java, Microservice, SOA, High Concurrency Application Design, Data-Intensive Application Design, MySql, Redis, RocketMQ etc.
 
 
 #### 📫 How to reach me
