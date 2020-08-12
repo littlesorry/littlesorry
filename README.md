@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=littlesorry)
+
+My name is Baofeng. I am a Java Developer and Architect with more than 10 years of experience. I am experienced in Java, Microservice, SOA, High Concurrency Application Design, Data-Intensive Application Design, MySql, RocketMQ etc.
+
+
+#### 📫 How to reach me
+  - chaumet.g@gmail.com
+
+
 <!--
 **littlesorry/littlesorry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
