@@ -5,7 +5,7 @@
 My name is Baofeng. 
 
 I am a Java Developer/Architect with about 10 years of experience. 
-I am experienced in Java, Microservice, SOA, High Concurrency Application Design, Data-Intensive Application Design, MySql, Redis, RocketMQ etc.
+I am experienced in Java, Microservice, SOA, High-Concurrency Application Design, Data-Intensive Application Design, MySql, Redis, RocketMQ etc.
 
 - 🌱 I’m currently building system on [COLA](https://github.com/alibaba/COLA)
 - 📫 How to reach me: chaumet.g@gmail.com
