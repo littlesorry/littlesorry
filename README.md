@@ -2,7 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=littlesorry)
 
-My name is Baofeng. I am a Java Developer and Architect with more than 10 years of experience. I am experienced in Java, Microservice, SOA, High Concurrency Application Design, Data-Intensive Application Design, MySql, RocketMQ etc.
+My name is Baofeng. 
+
+I am a Java Developer/Architect with more than 10 years of experience. 
+I am experienced in Java, Microservice, SOA, High Concurrency Application Design, Data-Intensive Application Design, MySql, RocketMQ etc.
 
 
 #### 📫 How to reach me
